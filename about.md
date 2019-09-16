@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mechanical Engineer, Data Scientist, Machine learning Engineer!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a passionate Data Scientist committed to solve problems using data and make the world a better place!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sreejimunthikodu@yahoo.com](mailto:sreejimunthikodu@yahoo.com)
