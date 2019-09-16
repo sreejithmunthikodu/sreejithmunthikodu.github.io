@@ -1,0 +1,2 @@
+Cases and Variables
+Data, which is a collection of information, consists of cases and variables. The objects in the data are called cases and the characteristics of the cases are called variables. Identifying data as various cases and respective variables are the first step in the statistical analysis. In our dataset, cases are the towns and variables are the temperature, precipitation, language, and income.
